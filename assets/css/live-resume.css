@@ -14,6 +14,7 @@ section.services-section ul {padding: 0px 15px;}
 /*.media.service-card.no-bottom-border {border-bottom: none !important;}*/
 .intro-section .card {margin: 10px 20px !important;}
 section.intro-section aside {padding: 0px;}
+main i {color: #0067f6;}
 
 Live.type {  display:inline-block;  vertical-align: bottom;}
 .type > span {  display:grid;  overflow: hidden;  height:1.2em;}
