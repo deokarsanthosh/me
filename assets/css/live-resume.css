@@ -6,7 +6,7 @@ a.nav-link i {    font-size: 15px;}
 .widget.personal-info{  text-align: left !important;}
 .mobile-shown .personal-info {text-align: center !important;}
 .desktop-hidden{display: none;}
-section.services-section.last-service {border-bottom: none;}
+/*section.services-section.last-service {border-bottom: none;}*/
 section.services-section .number {font-size: 20px;position: absolute;top: 2px;font-weight: 500;color: #0067f6;}
 section.services-section li {font-size: 12px;margin-top: 5px;}
 section.services-section ul {padding: 0px 15px;}
@@ -15,6 +15,10 @@ section.services-section ul {padding: 0px 15px;}
 .intro-section .card {margin: 10px 20px !important;}
 section.intro-section aside {padding: 0px;}
 main i {color: #0067f6;}
+.skill-section .logos {width: 40px;}
+.skill-section .service-title {position: relative;top: 8px;font-size: 14px !important;}
+.skill-section {padding: 20px;border-radius: 10px;margin-bottom: 10px !important;}
+
 
 Live.type {  display:inline-block;  vertical-align: bottom;}
 .type > span {  display:grid;  overflow: hidden;  height:1.2em;}
@@ -7763,7 +7767,7 @@ main {
         margin-bottom: 0; }
   main .services-section {
     margin-bottom: 34px; 
-    border-bottom: 1px solid #f3f3f3;}
+    /*border-bottom: 1px solid #f3f3f3;*/}
   main .service-card {
     padding-top: 11px;
     padding-bottom: 11px; }
